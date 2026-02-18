@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "風が吹く街",
+  "base_artist": "ラックライフ",
+  "createdAt": "2026-02-18T16:57:19.588566Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "風が吹く街",
+      "artist": "ラックライフ",
+      "has_synced": true,
+      "path": "select/01_風が吹く街_ラックライフ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "風が吹く街",
+      "artist": "ラックライフ",
+      "has_synced": true,
+      "path": "select/02_風が吹く街_ラックライフ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "風が吹く街",
+      "artist": "LUCKLIFE",
+      "has_synced": true,
+      "path": "select/03_風が吹く街_LUCKLIFE.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "風が吹く街",
+      "artist": "Luck Life",
+      "has_synced": true,
+      "path": "select/04_風が吹く街_Luck_Life.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "風が吹く街 - Kaze ga Fuku Machi",
+      "artist": "LUCK LIFE",
+      "has_synced": true,
+      "path": "select/05_風が吹く街_-_Kaze_ga_Fuku_Machi_LUCK_LIFE.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "風が吹く街 - TV Size",
+      "artist": "ラックライフ",
+      "has_synced": false,
+      "path": "select/06_風が吹く街_-_TV_Size_ラックライフ.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "風が吹く街",
+      "artist": "LUCKLIFE",
+      "has_synced": true,
+      "path": "select/07_風が吹く街_LUCKLIFE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "風が吹く街",
+      "artist": "ラックライフ",
+      "has_synced": false,
+      "path": "select/pl_01_風が吹く街_ラックライフ.txt"
+    }
+  ]
+}
